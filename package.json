@@ -1,0 +1,29 @@
+{
+  "name": "workshop-tcr-ts",
+  "version": "1.0.0",
+  "description": "TCR workshop",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfloress/workshop-tcr-ts.git"
+  },
+  "keywords": [
+    "tcr"
+  ],
+  "author": "isagarrido&veroflores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vfloress/workshop-tcr-ts/issues"
+  },
+  "homepage": "https://github.com/vfloress/workshop-tcr-ts#readme"
+}
