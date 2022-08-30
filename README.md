@@ -10,7 +10,7 @@ divertido ¿no?
 
 ## ¿Cómo vamos a hacerlo?
 Os hemos preparado un script para hacer más rápido el proceso, teneís la posibilidad de
-ejecutarlo en vuestro local si teneís ya instalado jdk11 o podeís ejecutarlo usando docker.
+ejecutarlo en vuestro local si teneís ya instalado node o podeís ejecutarlo usando docker.
 
 ### Ejecución en local
 Primero daremos permiso de ejecución al script
